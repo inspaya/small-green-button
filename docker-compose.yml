@@ -4,6 +4,14 @@ volumes:
   settings:
 
 services:
+  app:
+    build: ./app
+    restart: always
+    expose:
+      - "5000"
+    depends_on:
+      - browser
+
   browser:
     image: balenablocks/browser
     privileged: true
