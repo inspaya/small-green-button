@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 # Small Green Button (An outdoor classroom)
 
 The outdoor classroom is intended to be a set of distributed but remotely interconnected (Outdoor LCD display + RaspberryPi or other computing) units located in public spaces e.g. public parks.
